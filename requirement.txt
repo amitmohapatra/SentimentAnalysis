@@ -1,0 +1,7 @@
+pandas
+httplib2
+pyenchant
+nltk
+pattern
+xlrd
+openpyxl
